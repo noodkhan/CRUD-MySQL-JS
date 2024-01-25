@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- READ DATA -->
+    <div class="line"></div>
+    <h1>list data</h1>
+    <div id="buffer"></div>
+    <button class="button_getUsers" id="button_getUsers">GET</button>
+    <button id="button_getUsers_clear">CLEAR</button>
+
+    <!-- READ DATA => ID-->
+    <div class="line"></div>
+    <h1>read data id</h1>
+    <input id="input1"> NUMBER ID </input>
+    <button id="submit1">GET</button>
+    <div id="div_getUserID"></div>
+    
+
+    <!-- DELETE DATA => ID -->
+    <div class="line"></div>
+    <h1>delete data id</h1>
+    <input id="input2"> NUMBER ID </input>
+    <button id="submit2">PATH</button>
+    <div id="div_deleteUserID"></div>
+
+    <!-- CREATE DATA -->
+    <div class="line"></div>
+    <h1>create data</h1>
+    <input id="input_createUserID_id"> ID </input>
+    <input id="input_createUserID_name"> NAME </ipnut>
+    <button id="button_createUserID">CREATE</button>
+    <div id="div_createUserID"></div>
+
+    <div class="line"></div>
+    <h1>update data</h1>
+    <input id="input_updateID_id"> ID </input>
+    <input id="input_updateID_name"> NAME </input>
+    <input id="input_updateID_path"> NUMBER ID </input>
+    <button id="button_updateID"> UPDATE </button>
+    <div id="div_updateID"></div>
+</body>
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.1.2/dist/axios.min.js"></script>
+    <script src="app.js"></script>
+</html>
+
