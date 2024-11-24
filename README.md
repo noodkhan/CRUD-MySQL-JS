@@ -39,7 +39,7 @@
             </ul>
         </li>
     </ul>
-    <h3>🖼️ Phase 3: Add Input Validation and Error Handling</h3>
+    <h2>🖼️ Phase 3: Add Input Validation and Error Handling</h3>
     <ul>
         <li><strong>Goal:</strong> Ensure data integrity and handle errors gracefully.</li>
         <li><strong>Tasks:</strong>
@@ -51,7 +51,7 @@
             </ul>
         </li>
     </ul>
-    <h3>🖥️ Phase 4: Frontend Integration</h3>
+    <h2>🖥️ Phase 4: Frontend Integration</h3>
     <ul>
         <li><strong>Goal:</strong> Connect the API with a frontend or testing interface.</li>
         <li><strong>Tasks:</strong>
@@ -63,7 +63,7 @@
             </ul>
         </li>
     </ul>
-    <h3>⚙️ Phase 5: Deployment and Documentation</h3>
+    <h2>⚙️ Phase 5: Deployment and Documentation</h3>
     <ul>
         <li><strong>Goal:</strong> Make the application production-ready and easy to use.</li>
         <li><strong>Tasks:</strong>
@@ -75,7 +75,7 @@
             </ul>
         </li>
     </ul>
-    <h3>🎯 Stretch Goals</h3>
+    <h2>🎯 Stretch Goals</h3>
     <ul>
         <li>Add authentication with JWT for secure routes.</li>
         <li>Implement advanced query features (e.g., search and pagination).</li>
