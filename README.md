@@ -7,8 +7,7 @@
         Each phase is broken down into actionable steps to help you get the app up and running.
     </p>
     <h2>Roadmap</h2>
-    <div>
-    <h3>🚀 Phase 1: Setup and Initialization</h3>
+    <h2>🚀 Phase 1: Setup and Initialization</h3>
     <ul>
         <li><strong>Goal:</strong> Set up the project environment and database connection.</li>
         <li><strong>Tasks:</strong>
@@ -21,8 +20,7 @@
             </ul>
         </li>
     </ul>
-    </div>
-    <h3>🔧 Phase 2: Build the Backend API</h3>
+    <h2>🔧 Phase 2: Build the Backend API</h3>
     <ul>
         <li><strong>Goal:</strong> Implement endpoints for Create, Read, Update, and Delete operations.</li>
         <li><strong>Tasks:</strong>
