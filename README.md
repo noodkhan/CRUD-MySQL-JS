@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CRUD Application Roadmap</title>
-</head>
-<body>
-    <h1>🛠️ CRUD Application Roadmap (Express + MySQL)</h1>
+
+
+<h1>🛠️ CRUD Application Roadmap (Express + MySQL)</h1>
     <h2>Introduction</h2>
     <p>
         This roadmap guides the development of a <strong>CRUD (Create, Read, Update, Delete)</strong> application using <strong>Express.js</strong> and <strong>MySQL</strong>.
@@ -89,5 +83,3 @@
         <li>Add unit tests with frameworks like <code>Jest</code> or <code>Mocha</code>.</li>
     </ul>
     <p>This roadmap provides a step-by-step plan for developing a robust and maintainable CRUD application using Express and MySQL.</p>
-</body>
-</html>
